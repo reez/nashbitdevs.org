@@ -52,6 +52,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### New Work / Research
 
+[Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
+
 #### Bitcoin Projects
 
 #### Lightning Projects
